@@ -18,6 +18,5 @@
   <p>Handles communication between JavaScript/Web and native Kotlin code, and is also used to improve overall system performance and execution speed.</p>
 </details>
 
-<br>
 <hr>
 <p>&copy; 2026 GabrihhDEV</p>
