@@ -5,4 +5,5 @@
 <strong>• Hardware accelerator</strong><br>
 <strong>• Kotlin bridge</strong>
 <br>
+<hr>
 &copy; 2026 GabrihhDEV
